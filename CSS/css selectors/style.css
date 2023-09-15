@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+}
+
+.red-text{
+    color:red
+}
+
+#main{
+    color:green
+}
+
+h1[draggable="true"]{
+    color: yellow;
+}
+
+*{
+    background-color: blueviolet;
+}
